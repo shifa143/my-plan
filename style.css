@@ -21,3 +21,12 @@ span {
     background-color: rgb(241, 44, 143);
     
   }
+  /* logos */
+  .logos{
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+  }
+  .logos{
+      display: ruby-base-container;
+      display:-moz-box
+  }
