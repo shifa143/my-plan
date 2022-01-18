@@ -1,0 +1,23 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(240, 33, 160);
+}
+span {
+    content: "\2192";
+    background-color: rgb(241, 44, 143);
+    
+  }
